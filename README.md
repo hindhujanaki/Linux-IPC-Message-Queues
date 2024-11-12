@@ -88,7 +88,8 @@ int main()
 
 ## OUTPUT
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9516042d-1d9e-4ddc-9773-f020ba0afb90)
+
 
 
 
